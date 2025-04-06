@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoMetadataManager", "VideoMetadataManager\VideoMetadataManager.csproj", "{B2F51D12-C70A-4174-B8F6-62A6D2F7A69D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2F51D12-C70A-4174-B8F6-62A6D2F7A69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F51D12-C70A-4174-B8F6-62A6D2F7A69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F51D12-C70A-4174-B8F6-62A6D2F7A69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F51D12-C70A-4174-B8F6-62A6D2F7A69D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD3E9E6B-AAF9-42B1-9C36-37018CF6A659}
+	EndGlobalSection
+EndGlobal
